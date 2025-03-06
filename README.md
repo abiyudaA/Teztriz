@@ -1,0 +1,2 @@
+# Teztriz
+deploy client teztriz
